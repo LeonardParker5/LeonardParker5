@@ -1,1 +1,1 @@
-![](https://github.com/LeonardParker5/images/skele_1.gif)
+![](images/skele_1.gif)
